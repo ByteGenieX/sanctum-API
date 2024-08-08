@@ -5,6 +5,7 @@
 /public/storage
 /storage/*.key
 /database/migartions
+/App/Http/Controller/API/BaseController.php
 /vendor
 .env
 .env.backup
